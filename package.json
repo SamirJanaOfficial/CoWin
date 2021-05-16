@@ -1,6 +1,6 @@
 {
-  "name": "cowin",
-  "version": "1.0.5",
+  "name": "cowin-api",
+  "version": "1.0.0",
   "description": "Cowin NodeJS wrapper",
   "main": "index.js",
   "author": "Samir Jana",
