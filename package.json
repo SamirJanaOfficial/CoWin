@@ -11,13 +11,11 @@
   },
   "keywords": [
     "cowin",
-    "cowin-wrapper",
-    "nodejs",
-    "cowin-nodejs",
-    "india-covid",
-    "covid19-india",
+    "covishield",
     "covaccine",
-    "covishield"
+    "india-covid",
+    "cowin-nodejs",
+    "cowin-api"
   ],
   "bugs": {
     "url": "https://github.com/SamirJanaOfficial/cowin/issues"
