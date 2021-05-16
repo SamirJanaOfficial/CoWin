@@ -1,7 +1,7 @@
 {
   "name": "cowin-api",
   "version": "1.0.0",
-  "description": "Cowin NodeJS wrapper",
+  "description": "A NodeJS wrapper of Cowin Public API. We can win Covid 🤝",
   "main": "index.js",
   "author": "Samir Jana",
   "license": "MIT License",
