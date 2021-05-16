@@ -5,7 +5,7 @@
 ### Installation:
 
 ```
-npm install cowin
+npm install cowin --save
 ```
 
 ### Available methods:
