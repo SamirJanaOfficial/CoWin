@@ -1,0 +1,29 @@
+{
+  "name": "cowin",
+  "version": "1.0.4",
+  "description": "Cowin NodeJS wrapper",
+  "main": "index.js",
+  "author": "Samir Jana",
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirJanaOfficial/cowin.git"
+  },
+  "keywords": [
+    "cowin",
+    "cowin-wrapper",
+    "nodejs",
+    "cowin-nodejs",
+    "india-covid",
+    "covid19-india",
+    "covaccine",
+    "covishield"
+  ],
+  "bugs": {
+    "url": "https://github.com/SamirJanaOfficial/cowin/issues"
+  },
+  "homepage": "https://github.com/SamirJanaOfficial/cowin#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
